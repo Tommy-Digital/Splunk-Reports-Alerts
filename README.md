@@ -1,4 +1,4 @@
-# Splunk-Reports-Alerts
+# Splunk-Reports-and-Alerts
 
 Vandalay Industries uses Splunk for their security monitoring and have been experiencing a variety of security issues against their online systems over the past few months.
 
