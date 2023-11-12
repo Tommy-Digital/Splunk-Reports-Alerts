@@ -1,7 +1,7 @@
 # Splunk-Reports-and-Alerts
 
 <p align="center">
-  <img width="460" height="300" src=![Splunk Cover](//github.com/Tommy-Digital/Splunk-Reports-Alerts/assets/149236559/d7b58e2a-8de6-4859-ac8b-fc1e6cfa5f6d)>
+  <img width="460" height="300" src=!(//github.com/Tommy-Digital/Splunk-Reports-Alerts/assets/149236559/d7b58e2a-8de6-4859-ac8b-fc1e6cfa5f6d)>
 </p>
 ![Splunk Cover](https://github.com/Tommy-Digital/Splunk-Reports-Alerts/assets/149236559/d7b58e2a-8de6-4859-ac8b-fc1e6cfa5f6d)
 
